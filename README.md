@@ -5,4 +5,4 @@ For this analysis we will use public data that can be found at:  http://www1.nyc
 
 In this project you will find an R script named Data.Clean, which will take the raw data provided from the site above and will load and clean this data.  
 
-Another scropt, named Data.Analysis, will then take this prepped data and create a visual presentation of the square footage and sales prices.
+Another script, named Data.Analysis, will then take this prepped data and create a visual presentation of the square footage and sales prices.
